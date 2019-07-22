@@ -8,6 +8,8 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "assert": "^1.1.1",
+    "buffer": "^4.9.1",
     "react": "16.8.6",
     "react-native": "0.60.4",
     "romejs": "^1.0.7"
